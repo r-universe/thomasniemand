@@ -5,3 +5,4 @@
 [submodule "FCO"]
 	path = FCO
 	url = https://github.com/thomasniemand/fco
+	subdir = FCO
